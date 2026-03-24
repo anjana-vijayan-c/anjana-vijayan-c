@@ -83,4 +83,5 @@
 ---
 
 <h2> Fun Fact</h2>
-<p>I enjoy exploring data and finding hidden patterns that tell a story </p>
+<p>I enjoy turning complex datasets into simple, visual stories that anyone can understand.</p>
+
