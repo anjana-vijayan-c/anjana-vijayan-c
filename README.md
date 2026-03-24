@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjana</h1>
+<h1 align="center">Hi, I'm Anjana</h1>
 <h3 align="center">Aspiring Data Analyst | Business Analytics Enthusiast</h3>
 
 <p align="center">
@@ -25,13 +25,13 @@
 <h3>📊 Data Analysis</h3>
 <ul>
   <li>Microsoft Excel (Pivot Tables, Charts, Dashboards)</li>
-  <li>Data Cleaning & Transformation</li>
+  <li>Data Cleaning & Transformation (Excel, SQL, Python)</li>
 </ul>
 
 <h3>💻 Technical Skills</h3>
 <ul>
   <li>SQL (Joins, Aggregations, Queries)</li>
-  <li>Python (Basic)</li>
+  <li>Python (Data Analysis, Pandas, NumPy)</li>
 </ul>
 
 <h3>📈 Visualization Tools</h3>
@@ -51,12 +51,6 @@
   <li>Created KPI cards and trend visualizations</li>
 </ul>
 
-<h3>📉 Data Analysis using Pivot Tables</h3>
-<ul>
-  <li>Performed data cleaning and analysis</li>
-  <li>Built dynamic pivot charts</li>
-  <li>Generated insights from datasets</li>
-</ul>
 
 ---
 
@@ -69,10 +63,11 @@
 
 <h2>📘 Currently Learning</h2>
 <ul>
-  <li>Advanced Data Visualization</li>
-  <li>Business Analytics Projects</li>
-  <li>Problem-Solving Skills</li>
+  <li>Advanced Data Visualization Techniques </li>
+  <li>End-to-End Business Analytics Projects (Data Cleaning to Insight Generation)</li>
+  <li>Analytical Thinking and Problem-Solving using Real-World Datasets</li>
 </ul>
+
 
 ---
 
