@@ -3,9 +3,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
-  <img src="https://img.shields.io/badge/Tools-Excel%20%7C%20SQL%20%7C%20PowerBI-green" />
+  <img src="https://img.shields.io/badge/Tools-Excel%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20PowerBI-green" />
   <img src="https://img.shields.io/badge/Learning-Digital%20Marketing-orange" />
 </p>
+
 
 ---
 
