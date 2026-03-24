@@ -75,7 +75,8 @@
 <h2> Connect With Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/anjana-vijayan-c" target="_blank">LinkedIn</a> |
-  <a href="mailto:anjanavijayan212@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anjanavijayan212@gmail.com" target="_blank">
+  Email</a>
 </p>
 
 
