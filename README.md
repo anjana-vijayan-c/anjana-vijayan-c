@@ -79,11 +79,6 @@
 
 ---
 
-<h2>🔥 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
-</p>
-
 ---
 
 <h2>⭐ Fun Fact</h2>
