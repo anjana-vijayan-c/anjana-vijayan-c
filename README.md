@@ -77,7 +77,6 @@
   <a href="mailto:anjanavijayan212@gmail.com">Email</a>
 </p>
 
----
 
 ---
 
