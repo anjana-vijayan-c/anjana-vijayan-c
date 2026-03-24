@@ -54,13 +54,6 @@
 
 ---
 
-<h2>📸 Portfolio</h2>
-<p>Replace the image link with your dashboard screenshot</p>
-
-<img src="https://via.placeholder.com/800x400.png?text=Your+Dashboard+Here" alt="dashboard" width="100%"/>
-
----
-
 <h2>📘 Currently Learning</h2>
 <ul>
   <li>Advanced Data Visualization Techniques </li>
