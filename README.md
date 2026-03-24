@@ -78,8 +78,8 @@
 
 <h2>🤝 Connect With Me</h2>
 <p>
-  <a href="https://linkedin.com/in/your-link" target="_blank">LinkedIn</a> |
-  <a href="mailto:your-email@gmail.com">Email</a>
+  <a href="www.linkedin.com/in/anjana-vijayan-c" target="_blank">LinkedIn</a> |
+  <a href="mailto:anjanavijayan212@gmail.com">Email</a>
 </p>
 
 ---
