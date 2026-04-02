@@ -44,6 +44,15 @@
 
 <h2> Projects</h2>
 
+<h3> Demand Forecasting & Inventory Optimization Dashboard</h3>
+<ul>
+  <li>Developed an end-to-end demand forecasting solution using Tableau, Power BI, and Excel</li>
+  <li>Analyzed historical sales data to identify demand trends, regional performance, and top products</li>
+  <li>Built interactive dashboards to visualize key metrics such as total demand, sales, and profit</li>
+  <li>Implemented forecasting concepts including safety stock and recommended inventory levels</li>
+  <li>Provided actionable insights to optimize inventory and reduce stockouts and overstock situations</li>
+</ul>
+
 <h3> Oil Market Analysis Dashboard</h3>
 <ul>
   <li>Built an interactive dashboard using Excel</li>
