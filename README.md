@@ -44,6 +44,16 @@
 
 <h2> Projects</h2>
 
+<h3>Business Decision Simulator & Performance Analytics</h3>
+<ul>
+  <li>Designed and developed an end-to-end business analytics solution using SQL, Microsoft Excel, Power BI, and Tableau</li>
+  <li>Built an interactive what-if analysis simulator to assess the impact of pricing, marketing, and inventory decisions on product performance</li>
+  <li>Developed KPI dashboards to monitor key business metrics including sales, revenue, profit, and customer retention</li>
+  <li>Created interactive visualizations to evaluate performance across products, categories, regions, and time periods</li>
+  <li>Delivered actionable insights and strategic recommendations to support data-driven decision-making and business optimization</li>
+</ul>
+
+
 <h3> Demand Forecasting & Inventory Optimization Dashboard</h3>
 <ul>
   <li>Developed an end-to-end demand forecasting solution using Tableau, Power BI, and Excel</li>
@@ -53,12 +63,6 @@
   <li>Provided actionable insights to optimize inventory and reduce stockouts and overstock situations</li>
 </ul>
 
-<h3> Oil Market Analysis Dashboard</h3>
-<ul>
-  <li>Built an interactive dashboard using Excel</li>
-  <li>Analyzed Brent, WTI, VIX, and DXY data</li>
-  <li>Created KPI cards and trend visualizations</li>
-</ul>
 
 <h3> Instagram Analytics Dashboard</h3>
 <ul>
